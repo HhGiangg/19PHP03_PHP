@@ -51,9 +51,7 @@
 				echo "tháng $i có 28 ngày";
 				echo "<br>";
 				break;
-			default:
 			
-				break;
 			}
 		}		
 	}
